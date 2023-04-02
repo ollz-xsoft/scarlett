@@ -9,5 +9,10 @@
 
 
 ## Authors
-- [**Tom (bingit-dev)**](https://github.com/bingit-dev)
-- [**Ollz (ollz-xsoft**)](https://github.com/ollz-xsoft)
+* __[Ollz](https://github.com/ollz-xsoft)__
+
+    @ollz-xsoft is the Founder Executive Chairman of the project SCARLETT and [XSOFT](https://xsoft.cloud)
+
+* __[Tom](https://github.com/bingit-dev)__
+
+    @bingit-dev is the Chairman of the project SCARLETT and [XSOFT](https://xsoft.cloud)
