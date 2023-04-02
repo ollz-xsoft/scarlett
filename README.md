@@ -9,5 +9,5 @@
 
 
 ## Authors
-- *__[Tom (bingit-dev)](https://github.com/bingit-dev)
-- *__[Ollz (ollz-xsoft)](https://github.com/ollz-xsoft)
+- * __[Tom (bingit-dev)](https://github.com/bingit-dev)
+- * __[Ollz (ollz-xsoft)](https://github.com/ollz-xsoft)
